@@ -1,0 +1,35 @@
+.destaque {
+    background-image: url("../DHNews/img/destaque.webp");
+    background-size: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: red;
+    font-size: 24pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    color: black;
+    font-size: 14pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+
+}
+
+h3{
+    color: black;
+    font-size: 12pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-size: 10pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+footer{
+    text-align: center;
+}
